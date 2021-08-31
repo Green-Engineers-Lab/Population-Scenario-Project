@@ -38,7 +38,7 @@ Information: https://supportoffice.jp/eAsia2021/events/
 
 
 
-# Advanced preparation by Sep. 03 JST 15:00
+# Advance preparation by Sep. 03 JST 15:00
 ### 1. Data download
 
 ### 2. Install R & Rstudio
