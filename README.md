@@ -83,8 +83,12 @@ Information: https://supportoffice.jp/eAsia2021/events/
 ![series](https://user-images.githubusercontent.com/85103588/131285341-56db35a0-6e12-42c8-a868-8913f35dfde3.png)
 
 #### 6. Two models for population projection
-* The simple population model from Dr. Haga
-* The demographic dynamics model from Dr. Hori
+* The simple population model from Dr. Chihiro Haga
+![image](https://user-images.githubusercontent.com/85103588/131449459-f2c4c8a0-f33f-4c49-aa62-9beac4e38294.png)
+
+* The demographic dynamics model from Dr. Keiko Hori
+![image](https://user-images.githubusercontent.com/85103588/131449595-a0beaa13-beb2-43bb-9372-d0ef554080eb.png)
+
 
 
 
