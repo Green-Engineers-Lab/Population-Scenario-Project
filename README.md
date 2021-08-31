@@ -53,8 +53,7 @@ Information: https://supportoffice.jp/eAsia2021/events/
 -  go to "Customize Ribbon" -> check the ribbon named "Developer" in Main Tabs ![image (2)](https://user-images.githubusercontent.com/85103588/130732311-a6f9f6aa-5bdc-4b28-84b8-eee022dbec16.png)
 
 
-<img width="955" alt="image" src="https://user-images.githubusercontent.com/85103588/131469822-7dea5fc1-f50d-47a2-b7a1-5d5d304847bd.png">
-
+<img width="777" alt="image" src="https://user-images.githubusercontent.com/85103588/131470080-c3b052d1-fa91-48bd-b8f3-98b3229e839e.png">
 
 # Agenda
 - The 1st session
@@ -71,9 +70,7 @@ Information: https://supportoffice.jp/eAsia2021/events/
 
 
 
-<img width="955" alt="image" src="https://user-images.githubusercontent.com/85103588/131469828-3bb8e655-04de-433a-b454-fafa04feb4ea.png">
-
-
+<img width="777" alt="image" src="https://user-images.githubusercontent.com/85103588/131470065-553735ea-2dc7-49b5-bce6-66d60c0d577c.png">
 
 
 # Contents
@@ -108,8 +105,7 @@ Information: https://supportoffice.jp/eAsia2021/events/
 
 
 
-<img width="955" alt="image" src="https://user-images.githubusercontent.com/85103588/131469837-b6a4f397-a6f3-42a2-9dd4-a13de6dbc6a1.png">
-
+<img width="777" alt="image" src="https://user-images.githubusercontent.com/85103588/131470092-8fb3c1ba-f228-44eb-ab8f-a51a19a2a46b.png">
 
 
 
