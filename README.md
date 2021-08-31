@@ -53,6 +53,7 @@ Information: https://supportoffice.jp/eAsia2021/events/
 -  go to "Customize Ribbon" -> check the ribbon named "Developer" in Main Tabs ![image (2)](https://user-images.githubusercontent.com/85103588/130732311-a6f9f6aa-5bdc-4b28-84b8-eee022dbec16.png)
 
 
+<img width="955" alt="image" src="https://user-images.githubusercontent.com/85103588/131469822-7dea5fc1-f50d-47a2-b7a1-5d5d304847bd.png">
 
 
 # Agenda
@@ -70,6 +71,7 @@ Information: https://supportoffice.jp/eAsia2021/events/
 
 
 
+<img width="955" alt="image" src="https://user-images.githubusercontent.com/85103588/131469828-3bb8e655-04de-433a-b454-fafa04feb4ea.png">
 
 
 
@@ -106,6 +108,7 @@ Information: https://supportoffice.jp/eAsia2021/events/
 
 
 
+<img width="955" alt="image" src="https://user-images.githubusercontent.com/85103588/131469837-b6a4f397-a6f3-42a2-9dd4-a13de6dbc6a1.png">
 
 
 
