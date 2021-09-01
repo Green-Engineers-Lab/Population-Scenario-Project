@@ -40,6 +40,8 @@ Information: https://supportoffice.jp/eAsia2021/events/
 
 # Advance preparation by Sep. 03 JST 15:00
 ### 1. Data download
+Code & data (4.36 GB) is available from https://www.dropbox.com/sh/kg8p0jflkm6y08y/AAAspzmqFvpmUTKHqGTXuWbaa?dl=0
+
 
 ### 2. Install R & Rstudio
 - download "R" and "R-studio" matching to the specification of your PC
@@ -111,8 +113,8 @@ Information: https://supportoffice.jp/eAsia2021/events/
 
 
 ### 15:20-15:35 (JST) Development and application of gravity-based population allocation model (Dr. Chihiro Haga, Osaka Univ.)
-#### Source: https://link.springer.com/article/10.1007%2Fs11625-018-0605-y
-- What is gravity model?
+#### Source: https://link.springer.com/article/10.1007%2Fs11625-018-0605-y  or http://hdl.handle.net/11094/83603
+- What is gravity-based approach?
 - Residential population distribution assumption of Compact & Dispersed scenarios
 - Application: Overlay the future gridded population and socio-ecological status
 ### 15:35-15:40 (JST) Q&A
