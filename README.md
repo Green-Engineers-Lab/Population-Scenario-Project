@@ -97,9 +97,9 @@ Code & data (4.36 GB) is available from https://www.dropbox.com/sh/kg8p0jflkm6y0
 ![series](https://user-images.githubusercontent.com/85103588/131285341-56db35a0-6e12-42c8-a868-8913f35dfde3.png)
 
 #### 6. Two models for population projection
-* The simple population model from Dr. Chihiro Haga
+* The simple population model from Dr. Chihiro Haga (https://orcid.org/0000-0002-3325-6315)
 * ![avatar](https://user-images.githubusercontent.com/85103588/131449796-4b229ac6-5d0b-4e5f-9d17-7bffd8230adc.jpeg)
-* The demographic dynamics model from Dr. Keiko Hori
+* The demographic dynamics model from Dr. Keiko Hori ()
 * ![Keiko-Hori-2](https://user-images.githubusercontent.com/85103588/131449800-4b09e6e8-732b-4940-879f-01c376e28bd7.jpg)
 
 
