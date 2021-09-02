@@ -130,6 +130,8 @@ Code & data (4.36 GB) is available from https://www.dropbox.com/sh/kg8p0jflkm6y0
 ### 15:55-16:00 (JST) Q&A
 
 ## The 2nd session：Demonstration of scenario analysis on grid population
+![image](https://user-images.githubusercontent.com/85103588/131804918-f25039c2-6831-4201-8546-8e052bd5d466.png)
+
 ### 16:05-16:45 (JST) Scenario simulation of grid population by gravity model will be demonstrated
   Simulated experience will be provided for participants by shared dataset and codes. Indonesian data will be used as sample data for the demonstration.
 
