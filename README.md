@@ -79,7 +79,9 @@ Code & data (4.36 GB) is available from https://www.dropbox.com/sh/kg8p0jflkm6y0
 <img width="708" alt="image" src="https://user-images.githubusercontent.com/85103588/131284597-7c278e28-c088-4c9a-a8ba-ff3a6d8eb6ff.png">
 
 ## The 1st session：Presentation about population distribution modeling
-### 15:00-15:10 (JST) Opening remarks and introduction of e-Asia (Dr. Osamu Saito, IGES)
+### 15:00-15:10 (JST) Opening remarks and introduction of e-Asia (Dr. Osamu Saito, IGES) (https://orcid.org/0000-0002-0697-9593)
+![image](https://user-images.githubusercontent.com/85103588/131787720-5855c119-e296-4ebb-949e-717fde6b91db.png)
+
 ### 15:10-15:20 (JST) Population scenario development (Dr. Takanori Matsui, Osaka Univ.)
 #### 1. IPBES conceptual framework (https://ipbes.net/conceptual-framework)
 <img src="https://user-images.githubusercontent.com/85103588/131281250-a924758c-4c14-4dd1-b8f6-5a321080b7c6.png" width="1000">
