@@ -146,6 +146,10 @@ Code & data (4.36 GB) is available from https://www.dropbox.com/sh/kg8p0jflkm6y0
         1. Compute proportion
         1. Save the raster data as dataframe in CSV format
     1. Merge all CSVs into one CSV file (*./output/step1_output_westjawa_cohort_data.csv*)
+- For more technical tutorials, visit the following websites.
+  - Learning R and Rstudio https://education.rstudio.com/learn/beginner/
+  - Spatial Data Science with R, see https://rspatial.org/  and https://cran.r-project.org/web/packages/raster/raster.pdf
+    - our tutorial use "raster" package not "terra" package
     
 #### 16:20-16:35 (JST) Step 2. Calculate future population scenario (Dr.Hori & Dr.Haga)
 - Data: projected 2045 population of West Jawa province by age groups and sex provided by [Indonesia Population Projection 2015-2045](https://www.bps.go.id/publication/2018/10/19/78d24d9020026ad95c6b5965/proyeksi-penduduk-indonesia-2015-2045-hasil-supas-2015.html)
