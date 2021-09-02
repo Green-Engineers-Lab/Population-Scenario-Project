@@ -134,7 +134,13 @@ Code & data (4.36 GB) is available from https://www.dropbox.com/sh/kg8p0jflkm6y0
   Simulated experience will be provided for participants by shared dataset and codes. Indonesian data will be used as sample data for the demonstration.
 
 #### 16:05-16:20 (JST) Step 1. Preprocessing population data (Dr.Haga)
-- Data: Age and sex structures provided by [WorldPop](https://www.worldpop.org/geodata/listing?id=87)
+- Data: 
+  - Unconstrained age and sex structures in 2020 provided by [WorldPop](https://www.worldpop.org/geodata/summary?id=16850)
+    - Citation: WorldPop (www.worldpop.org - School of Geography and Environmental Science, University of Southampton; Department of Geography and Geosciences, University of Louisville; Departement de Geographie, Universite de Namur) and Center for International Earth Science Information Network (CIESIN), Columbia University (2018). Global High Resolution Population Denominators Project - Funded by The Bill and Melinda Gates Foundation (OPP1134076). https://dx.doi.org/10.5258/SOTON/WP00646
+  - Built-settlement extents, Indonesia provided by [WorldPop](https://www.worldpop.org/geodata/summary?id=17048)
+    - Citation: WorldPop (www.worldpop.org - School of Geography and Environmental Science, University of Southampton; Department of Geography and Geosciences, University of Louisville; Departement de Geographie, Universite de Namur) and Center for International Earth Science Information Network (CIESIN), Columbia University (2018). Global High Resolution Population Denominators Project - Funded by The Bill and Melinda Gates Foundation (OPP1134076). https://dx.doi.org/10.5258/SOTON/WP00649
+  - Constrained vs Unconstrained?
+    - https://www.worldpop.org/methods/top_down_constrained_vs_unconstrained
 - Processing in R & Rstudio
     1. Install & Load libraries
     1. Initialize parameters
@@ -171,7 +177,8 @@ Code & data (4.36 GB) is available from https://www.dropbox.com/sh/kg8p0jflkm6y0
         1. Add longitude & latitude information
         1. Rasterize the future population data
         1. Save the raster data
-    1. Visualize the raster data
+    1. Visualize the raster data using R / GIS software
+        - see https://oscarperpinan.github.io/rastervis/
 
 ## 16:45-16:55 (JST) Q&A, feedbacks from participants
 ## 16:55-17:00 (JST) Closing remarks（Dr. Osamu Saito）
