@@ -116,7 +116,9 @@ Even if you have any troubles to download R or R-studio, you can attend and see 
 
 
 ### 15:20-15:35 (JST) Development and application of gravity-based population allocation model (Dr. Chihiro Haga, Osaka Univ.)
-#### Source: https://link.springer.com/article/10.1007%2Fs11625-018-0605-y  or http://hdl.handle.net/11094/83603
+#### Source: https://link.springer.com/article/10.1007%2Fs11625-018-0605-y  or preprint http://hdl.handle.net/11094/83603
+#### Presentation material: [Presentation_ChihiroHaga.pdf](https://github.com/Green-Engineers-Lab/Population-Scenario-Project/files/7103531/Presentation_ChihiroHaga.pdf)
+
 - What is gravity-based approach?
 - Residential population distribution assumption of Compact & Dispersed scenarios
 - Application: Overlay the future gridded population and socio-ecological status
