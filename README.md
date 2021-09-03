@@ -123,6 +123,7 @@ Even if you have any troubles to download R or R-studio, you can attend and see 
 ### 15:35-15:40 (JST) Q&A
 
 ### 15:40-15:55 (JST) Development and application of combined model by cohort-component method and gravity-based method (Dr. Keiko Hori, IGES)
+#### Presentation material: [Presentation_KeikoHori.pdf](https://github.com/Green-Engineers-Lab/Population-Scenario-Project/files/7103461/Presentation_KeikoHori.pdf)
 #### Source: https://link.springer.com/article/10.1007%2Fs11625-020-00835-5
 - Multi step model structure combining cohort-component method and grabity model
 - Detailed mathematical algorithm and scenario assumption of each step
