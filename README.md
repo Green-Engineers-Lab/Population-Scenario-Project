@@ -47,7 +47,7 @@ Code & data (4.36 GB) is available from https://www.dropbox.com/sh/kg8p0jflkm6y0
 - download "R" and "R-studio" matching to the specification of your PC
   - Follow the instruction of https://rstudio-education.github.io/hopr/starting.html
 
-Even if you have any troubles to download R or Rstudio, you can attend and see the demonstratrion in the second session!
+Even if you have any troubles to download R or R-studio, you can attend and see the demonstratrion in the second session!
 
 ### 3. Excel 'Development' ribbon activation
 -  open 'file'.
