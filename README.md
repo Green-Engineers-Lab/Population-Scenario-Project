@@ -47,6 +47,7 @@ Code & data (4.36 GB) is available from https://www.dropbox.com/sh/kg8p0jflkm6y0
 - download "R" and "R-studio" matching to the specification of your PC
   - Follow the instruction of https://rstudio-education.github.io/hopr/starting.html
 
+Even if you have any troubles to download R or Rstudio, you can attend and see the demonstratrion in the second session!
 
 ### 3. Excel 'Development' ribbon activation
 -  open 'file'.
@@ -101,7 +102,7 @@ Code & data (4.36 GB) is available from https://www.dropbox.com/sh/kg8p0jflkm6y0
 #### 6. Two models for population projection
 * The simple population model from Dr. Chihiro Haga (https://orcid.org/0000-0002-3325-6315)
 * ![avatar](https://user-images.githubusercontent.com/85103588/131449796-4b229ac6-5d0b-4e5f-9d17-7bffd8230adc.jpeg)
-* The demographic dynamics model from Dr. Keiko Hori ()
+* The demographic dynamics model from Dr. Keiko Hori (https://www.researchgate.net/profile/Keiko-Hori-2)
 * ![Keiko-Hori-2](https://user-images.githubusercontent.com/85103588/131449800-4b09e6e8-732b-4940-879f-01c376e28bd7.jpg)
 
 
